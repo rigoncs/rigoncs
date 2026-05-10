@@ -24,11 +24,17 @@
 
 ---
 
-## 🛠 Tech & Tools
+## 🛠 Tools & Environment
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,vscode" />
 </p>
+
+### 🤖 AI-Native Tools
+
+```text
+Claude Code / Trae / LLM Tooling / Agent Workflows
+```
 
 ---
 
