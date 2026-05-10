@@ -23,7 +23,7 @@
 
 ---
 
-#### ⏳ Last Month, I Spent My Time On
+#### ⏳ Last 7 Days, I Spent My Time On
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
