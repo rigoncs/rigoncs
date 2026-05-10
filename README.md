@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-* 🧠 AI Infrastructure Engineer
-* ⚙️ Focus on **LLM Systems / Distributed Systems / Performance Optimization**
-* 💻 Strong in: `C++`, `Python`, `Go`
-* 🌱 Currently exploring: `LLM Serving`, `Inference Optimization`, `Vector Databases`
+* 🧠 AI Infra Engineer
+* ⚙️ Focus on **LLM Systems / Distributed Systems / Cloud Native**
+* 💻 Core Languages & Interests: `Go`, `Python`, `C++`, `TypeScript`, `Rust`
+* 🌱 Currently exploring: `LLM Serving`, `Agent System`
 * 🧩 MBTI: INFJ
 * ✨ Motto: *Sisu.*
 
@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,go,linux,docker,kubernetes,git,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,python,go,linux,kubernetes,vscode,TypeScript,Rust" />
 
 </p>
 
@@ -30,8 +30,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rigoncs&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rigoncs&theme=tokyonight" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rigoncs&theme=tokyo-night" />
 </p>
 
 ---
@@ -48,16 +48,9 @@
 
 ```text
 - LLM Inference Acceleration
-- Distributed Model Serving
-- High Performance Backend Systems
+- Algorithms
+- Agent System
 ```
-
----
-
-## 📫 Contact Me
-
-* Email: [your_email@example.com](mailto:your_email@example.com)
-* GitHub: https://github.com/YOUR_USERNAME
 
 ---
 
