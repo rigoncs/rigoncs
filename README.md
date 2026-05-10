@@ -10,7 +10,7 @@
 
 * ⚙️ AI Infra Engineer
 * 🏗 Focus on **AI Systems / Distributed Systems / Agent Systems**
-* 🧩 MBTI: INFJ
+* 🧩 MBTI: *INFJ*
 * ✨ Motto: *Sisu.*
 
 ---
@@ -20,26 +20,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,go,rust,ts" />
 </p>
-
----
-
-### 📂 By Repository
-
-* 📘 https://github.com/rigoncs/YOUR_REPO_1
-  → Docs, system design notes, AI infra thinking
-
-* 🧪 https://github.com/rigoncs/YOUR_REPO_2
-  → Typst experiments & structured writing
-
----
-
-### 🧠 Insight
-
-> Most of the time was spent on **thinking, structuring, and documenting systems**
-> rather than pure implementation — an intentional investment.
-
----
-
 
 ---
 
