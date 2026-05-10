@@ -8,15 +8,14 @@
 
 ## 🧠 About Me
 
-* ⚙️ AI Infrastructure Engineer
-* 🏗 Focus on **LLM Systems / Distributed Systems / Agent Systems**
-* 🔍 Interested in **Inference Optimization / Data Analysis / Intelligent Agents**
-* 💻 Background in systems programming & backend engineering
+* ⚙️ AI Infra Engineer
+* 🏗 Focus on **AI Systems / Distributed Systems / Agent Systems**
+* 🧩 MBTI: INFJ
 * ✨ Motto: *Sisu.*
 
 ---
 
-## 🧩 Languages I Use & Explore
+## 🧩 Core Languages & Interest
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,go,rust,ts" />
@@ -24,28 +23,23 @@
 
 ---
 
-## 🛠 Tools & Environment
+### 📂 By Repository
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,vscode" />
-</p>
+* 📘 https://github.com/rigoncs/YOUR_REPO_1
+  → Docs, system design notes, AI infra thinking
 
-### 🤖 AI-Native Tools
-
-```text
-Claude Code / Trae / LLM Tooling / Agent Workflows
-```
+* 🧪 https://github.com/rigoncs/YOUR_REPO_2
+  → Typst experiments & structured writing
 
 ---
 
-## 🚀 Current Focus
+### 🧠 Insight
 
-```text
-- LLM Inference & Serving Systems
-- Agent-based System Design
-- Data Analysis & Pipeline Engineering
-- High Performance Backend Systems
-```
+> Most of the time was spent on **thinking, structuring, and documenting systems**
+> rather than pure implementation — an intentional investment.
+
+---
+
 
 ---
 
@@ -63,26 +57,5 @@ Claude Code / Trae / LLM Tooling / Agent Workflows
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rigoncs&theme=tokyo-night" />
 </p>
-
----
-
-## 🧠 Philosophy
-
-> Languages are tools for thought.
-> Systems are expressions of constraints.
-> Simplicity is hard-earned.
-
----
-
-## 📫 Contact
-
-* GitHub: https://github.com/rigoncs
-
----
-
-## ⚡ Fun Note
-
-> Enjoy the short pain now —
-> engineered systems, like people, get stronger under pressure.
 
 ---
