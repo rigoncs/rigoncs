@@ -1,29 +1,45 @@
 # 👋 Hi there, I'm Jianglong Liu
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Infrastructure+Engineer;C%2B%2B+%7C+Python+%7C+Go;Building+Scalable+Systems;Lifelong+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Infrastructure+Engineer;Systems+%7C+LLM+%7C+Agents;C%2B%2B+%7C+Python+%7C+Go+%7C+Rust+%7C+TypeScript;Building+Scalable+Intelligent+Systems" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-* 🧠 AI Infra Engineer
-* ⚙️ Focus on **LLM Systems / Distributed Systems / Cloud Native**
-* 💻 Core Languages & Interests: `Go`, `Python`, `C++`, `TypeScript`, `Rust`
-* 🌱 Currently exploring: `LLM Serving`, `Agent System`
-* 🧩 MBTI: INFJ
+* ⚙️ AI Infrastructure Engineer
+* 🏗 Focus on **LLM Systems / Distributed Systems / Agent Systems**
+* 🔍 Interested in **Inference Optimization / Data Analysis / Intelligent Agents**
+* 💻 Background in systems programming & backend engineering
 * ✨ Motto: *Sisu.*
 
 ---
 
-## 🛠 Tech Stack
+## 🧩 Languages I Use & Explore
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,go,linux,kubernetes,vscode,TypeScript,Rust" />
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,go,rust,ts" />
 </p>
+
+---
+
+## 🛠 Tech & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,git,vscode" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+```text
+- LLM Inference & Serving Systems
+- Agent-based System Design
+- Data Analysis & Pipeline Engineering
+- High Performance Backend Systems
+```
 
 ---
 
@@ -36,7 +52,7 @@
 
 ---
 
-## 🔥 Contribution Graph
+## 🔥 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rigoncs&theme=tokyo-night" />
@@ -44,19 +60,23 @@
 
 ---
 
-## 🧠 Current Focus
+## 🧠 Philosophy
 
-```text
-- LLM Inference Acceleration
-- Algorithms
-- Agent System
-```
+> Languages are tools for thought.
+> Systems are expressions of constraints.
+> Simplicity is hard-earned.
 
 ---
 
-## ⚡ Fun Fact
+## 📫 Contact
 
-> “Enjoy the short pain now, everything will be fine.”
-> — but engineered with systems thinking.
+* GitHub: https://github.com/rigoncs
+
+---
+
+## ⚡ Fun Note
+
+> Enjoy the short pain now —
+> engineered systems, like people, get stronger under pressure.
 
 ---
