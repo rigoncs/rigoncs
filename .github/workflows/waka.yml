@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: '0 0 * * *'   # 每天 UTC 0点
   workflow_dispatch:
-  push:
-    branches:
-      - main  
       
 permissions:
   contents: write  
