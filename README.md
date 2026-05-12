@@ -26,6 +26,18 @@
 #### ⏳ Last 7 Days, I Spent My Time On
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 04 May 2026 - To: 11 May 2026
+
+Total Time: 1 hr 23 mins
+
+Markdown   59 mins               ██████████████████░░░░░░░   71.64 %
+Python     11 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.37 %
+Go         10 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Other      2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
