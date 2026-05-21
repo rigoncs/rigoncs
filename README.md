@@ -28,15 +28,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2026 - To: 19 May 2026
+From: 13 May 2026 - To: 20 May 2026
 
-Total Time: 14 hrs 7 mins
+Total Time: 14 hrs 1 min
 
-Markdown           8 hrs 20 mins         ██████████████▓░░░░░░░░░░   59.09 %
-Vue                1 hr 59 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
-Go                 1 hr 32 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-Other              1 hr 14 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
-JSON               35 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Markdown           8 hrs 7 mins          ██████████████▒░░░░░░░░░░   57.91 %
+Vue                2 hrs 17 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+Go                 1 hr 32 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+Other              1 hr 14 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
+Text               19 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
