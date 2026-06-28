@@ -28,14 +28,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 June 2026 - To: 26 June 2026
+From: 20 June 2026 - To: 27 June 2026
 
-Total Time: 5 hrs 34 mins
+Total Time: 5 hrs 25 mins
 
-Rust       5 hrs 11 mins         ███████████████████████▒░   93.07 %
-YAML       10 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Markdown   6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-TOML       6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+Rust       5 hrs 7 mins          ███████████████████████▓░   94.52 %
+YAML       7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+TOML       6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Markdown   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
