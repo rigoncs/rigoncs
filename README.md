@@ -18,7 +18,7 @@
 #### 🧩 Core Languages & Interest
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,go,rust,ts" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,go,rust" />
 </p>
 
 ---
