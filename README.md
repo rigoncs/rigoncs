@@ -28,15 +28,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2026 - To: 09 August 2026
+From: 03 August 2026 - To: 10 August 2026
 
-Total Time: 8 mins
+Total Time: 33 mins
 
-C++          4 mins                ████████████▒░░░░░░░░░░░░   49.44 %
-Other        2 mins                ████████▒░░░░░░░░░░░░░░░░   33.87 %
-Bash         0 secs                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.66 %
-CMake        0 secs                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+C++          29 mins               █████████████████████▓░░░   87.06 %
+Other        2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+Bash         0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+CMake        0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+Git Config   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
