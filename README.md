@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2026 - To: 17 August 2026
+From: 11 August 2026 - To: 18 August 2026
 
-Total Time: 57 mins
+Total Time: 3 hrs 6 mins
 
-C++              16 mins               ███████░░░░░░░░░░░░░░░░░░   28.49 %
-CMake            16 mins               ███████░░░░░░░░░░░░░░░░░░   28.03 %
-C                12 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.16 %
-JSON             8 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   15.18 %
-GitIgnore file   2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 %
+C                1 hr 16 mins          ██████████▒░░░░░░░░░░░░░░   40.90 %
+C++              48 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.83 %
+CMake            24 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+GitIgnore file   14 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
+JSON             8 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
 ```
 
 <!--END_SECTION:waka-->
