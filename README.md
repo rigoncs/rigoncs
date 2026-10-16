@@ -5,12 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2026 - To: 14 October 2026
+From: 08 October 2026 - To: 15 October 2026
 
-Total Time: 2 hrs 15 mins
+Total Time: 1 hr 54 mins
 
-C++   2 hrs 15 mins         █████████████████████████   99.96 %
-C     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+C++   1 hr 54 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
